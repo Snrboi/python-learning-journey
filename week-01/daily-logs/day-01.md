@@ -24,4 +24,4 @@
 -Today I wrote my first Python programs and learned that error messages are helpful guides rather than something to fear.
 
 ## 🎯 Tomorrow's Goal
-- 
+- i intend to learn variables and data types
