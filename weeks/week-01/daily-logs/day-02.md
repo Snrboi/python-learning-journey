@@ -15,4 +15,4 @@
 ## 💡 Key Takeaway
 - being calm is an underestimated part of programming because i felt i wrote the correct code but it was when i took a step back i realized i made a mistake.
 ## 🎯 Tomorrow's Goal
-- User input :strong:
+- User input 
