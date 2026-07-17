@@ -12,3 +12,10 @@ I also learned that Python stores different kinds of data differently. For examp
 
 # day 3
 - Today i learnt user inputs and how to talk to the computer and have it respond to you in real time. send inputs in, change the data type of the inputs as inputs collects data as only strings. 
+
+| Operation           | Result                    |
+| ------------------- | ------------------------- |
+| `"Hello" + "World"` | ✅ Joins strings           |
+| `"Hello" * 3`       | ✅ Repeats the string      |
+| `3 * "Hello"`       | ✅ Also repeats the string |
+| `3 + "Hello"`       | ❌ TypeError               |
