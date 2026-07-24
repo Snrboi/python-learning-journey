@@ -54,3 +54,32 @@ if condition:
 - Forgetting the colon.
 - Forgetting indentation.
 - Using `=` instead of `==`.
+
+# Day 4
+
+## else Statements
+
+The `else` statement runs when the `if` condition evaluates to `False`.
+
+### Syntax
+
+```python
+if condition:
+    # code runs if True
+else:
+    # code runs if False
+```
+
+### Things I Learned
+
+- `else` always works with an `if` statement.
+- Only one branch (`if` or `else`) executes.
+- Proper indentation is required.
+- Giving users feedback for both outcomes improves the user experience.
+
+### Common Mistakes
+
+- Forgetting the colon (`:`) after `else`.
+- Incorrect indentation.
+- Expecting both `if` and `else` to run.
+```
