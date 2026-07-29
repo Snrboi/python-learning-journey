@@ -1,28 +1,26 @@
-# Python Learning Journey 🐍
+# AI Engineering Journey
 
-Welcome to my Python and AI Engineering learning journey.
+Welcome to my AI Engineering Journey.
 
-I'm Emeto Golden, an AI Native Engineer in Training and a Learn2Earn x Talent Nation Fellow. This repository documents my progress as I learn Python, software engineering principles, and AI concepts in public.
+My goal is to become an AI Native Engineer by learning software engineering fundamentals, building real-world projects, and documenting every stage of my growth.
 
-## Goals
-- Learn Python fundamentals.
-- Build problem-solving skills.
-- Explore AI engineering concepts and tools.
-- Build projects consistently.
-- Document my progress and lessons learned.
+## Current Phase
 
-## Repository Structure
-📂 week-01
-├── 📂 daily-logs
-└── 📄 weekly-summary.md
+✅ Phase 1 — Python Fundamentals
 
-📂 projects
-📂 notes
+### Current Projects
 
-## Tech Stack
-- Python
-- Git & GitHub
-- Markdown
+- DeveloperOS
+- Practice Exercises
+- Weekly Reflections
 
-## Motto
-> Learn. Build. Share. Repeat.
+## Roadmap
+
+- Phase 1 — Python
+- Phase 2 — Software Engineering
+- Phase 3 — Data
+- Phase 4 — APIs
+- Phase 5 — AI Foundations
+- Phase 6 — LLM Engineering
+- Phase 7 — AI Agents
+- Phase 8 — AI Native Applications
