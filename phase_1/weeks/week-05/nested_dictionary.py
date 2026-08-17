@@ -85,3 +85,29 @@ for user in users:
     for skill in user["skills"]:
         print(skill)
 
+aios_users = [
+    {
+        "username": "snrboi",
+        "role": "AI Engineer",
+        "status": "active"
+    },
+    {
+        "username": "admin",
+        "role": "Administrator",
+        "status": "inactive"
+    },
+    {
+        "username": "developer",
+        "role": "Developer",
+        "status": "active"
+    }
+]
+# Goal: Display active users(username and role)
+# input: list of dictionaries
+# output: username and role 
+# steps: look through the list, check for active users, print their usernames and roles
+# python concepts: for loops, conditionals and print
+for users in aios_users:
+    if users["status"] == "active":
+        print(f"Username: {users["username"]}")
+        print(f"Role: {users["role"]}")
