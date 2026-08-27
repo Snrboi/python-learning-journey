@@ -45,4 +45,17 @@ def change(skills):
 change(skills)
 
 print(skills) # this prints the original skills list as the functions is trying to completely change it not mutate it.
-    
+
+# Exercise 6
+user = {
+    "name": "admin",
+    "role": "AI Engineering"
+}
+
+def promote(user):
+    user["role"] = "Senior AI Engineering"
+    return user
+
+print(user)
+a = promote(user)
+print(a)
