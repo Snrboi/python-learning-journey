@@ -33,7 +33,6 @@ print(type(models))
 print(models)
 
 # exercise 3
-import json
 
 developer = {
     "name": "Golden",

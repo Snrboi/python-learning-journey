@@ -1,0 +1,14 @@
+[
+    {
+        "model name": "eben ai",
+        "provider": "eben",
+        "maximum tokens": 200,
+        "active": true
+    },
+    {
+        "model name": "fawo ai",
+        "provider": "fawo",
+        "maximum tokens": 2000,
+        "active": true
+    }
+]
