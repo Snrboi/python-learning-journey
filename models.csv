@@ -1,0 +1,4 @@
+prompt,model,tokens,successful
+add numbers to a network,fable5,200,True
+what is docker?,gpt-6,500,False
+docker implementation,astra,1000,True
